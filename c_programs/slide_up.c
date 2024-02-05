@@ -2,7 +2,6 @@
 #include <string.h>
 #include <math.h>
 #include <stdint.h>
-#include <stdlib.h>
 
 struct wav_header {
 	char riff[4];
